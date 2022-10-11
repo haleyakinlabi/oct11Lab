@@ -1,0 +1,38 @@
+header{
+    background-color: gainsboro;
+    height: 100px;
+}
+.blueSquare{
+    background-color:rgb(119, 152, 217);
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 28px;
+    left: 30px;
+}
+.paragraph1{
+    padding-top: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.paragraph2{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.colorblue{
+    background-color:rgb(119, 152, 217);
+    height: 200px;
+    
+}
+.turquoise{
+    background-color: turquoise;
+    height: 200px;
+}
+.lightgreen{
+    background-color:rgb(173, 224, 173) ;
+    height: 200px;
+}
+.yellow{
+    background-color: yellow;
+    height: 200px;
+}
